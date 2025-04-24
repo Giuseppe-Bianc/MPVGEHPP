@@ -106,6 +106,6 @@ namespace mpvge {
         VK_CHECK(result, "failed to present swap chain image!");
     }
 }  // namespace mpvge
-// clang-format off
+   // clang-format off
 // NOLINTEND(*-include-cleaner, *-pro-type-member-init,*-member-init, *-avoid-magic-numbers,*-magic-numbers, *-uppercase-literal-suffix, *-use-designated-initializers, *-pro-type-union-access)
-// clang-format on
+   // clang-format on
