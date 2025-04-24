@@ -1,11 +1,11 @@
-# MPVGEHPP
+# MPVGE
 
-[![ci](https://github.com/Giuseppe-Bianc/MPVGEHPP/actions/workflows/ci.yml/badge.svg)](https://github.com/Giuseppe-Bianc/MPVGEHPP/actions/workflows/ci.yml)
-[![codecov](https://codecov.io/gh/Giuseppe-Bianc/MPVGEHPP/branch/main/graph/badge.svg)](https://codecov.io/gh/Giuseppe-Bianc/MPVGEHPP)
-[![CodeQL](https://github.com/Giuseppe-Bianc/MPVGEHPP/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/Giuseppe-Bianc/MPVGEHPP/actions/workflows/codeql-analysis.yml)
+[![ci](https://github.com/Giuseppe-Bianc/MPVGE/actions/workflows/ci.yml/badge.svg)](https://github.com/Giuseppe-Bianc/MPVGE/actions/workflows/ci.yml)
+[![codecov](https://codecov.io/gh/Giuseppe-Bianc/MPVGE/branch/main/graph/badge.svg)](https://codecov.io/gh/Giuseppe-Bianc/MPVGE)
+[![CodeQL](https://github.com/Giuseppe-Bianc/MPVGE/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/Giuseppe-Bianc/MPVGE/actions/workflows/codeql-analysis.yml)
 
-## About MPVGEHPP
-a vulkan  hpp  renderer implementation
+## About MPVGE
+my personal c++ vulkan game  engine
 
 
 ## More Details
